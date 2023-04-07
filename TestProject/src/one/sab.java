@@ -5,7 +5,7 @@ public class sab {
        {
     	   int a =20;
     	   int b = 20;
-    	   
+    	   System.out.println(a+b);  // did changes
          System.out.println("Hello");
        }
 }
